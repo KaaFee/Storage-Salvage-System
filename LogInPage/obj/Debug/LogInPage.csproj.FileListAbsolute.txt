@@ -1,0 +1,12 @@
+C:\Users\Kaafee\source\repos\LogInPage\bin\Debug\LogInPage.exe.config
+C:\Users\Kaafee\source\repos\LogInPage\bin\Debug\LogInPage.exe
+C:\Users\Kaafee\source\repos\LogInPage\bin\Debug\LogInPage.pdb
+C:\Users\Kaafee\source\repos\LogInPage\obj\Debug\LogInPage.csprojAssemblyReference.cache
+C:\Users\Kaafee\source\repos\LogInPage\obj\Debug\LogInPage.Form1.resources
+C:\Users\Kaafee\source\repos\LogInPage\obj\Debug\LogInPage.Properties.Resources.resources
+C:\Users\Kaafee\source\repos\LogInPage\obj\Debug\LogInPage.csproj.GenerateResource.cache
+C:\Users\Kaafee\source\repos\LogInPage\obj\Debug\LogInPage.csproj.CoreCompileInputs.cache
+C:\Users\Kaafee\source\repos\LogInPage\obj\Debug\LogInPage.exe
+C:\Users\Kaafee\source\repos\LogInPage\obj\Debug\LogInPage.pdb
+C:\Users\Kaafee\source\repos\LogInPage\obj\Debug\LogInPage.FormRegistration.resources
+C:\Users\Kaafee\source\repos\LogInPage\obj\Debug\LogInPage.AdminPanel.resources
