@@ -1,0 +1,39 @@
+C:\Users\Acer\source\repos\bm homepage\bm homepage\bin\Debug\bm homepage.exe.config
+C:\Users\Acer\source\repos\bm homepage\bm homepage\bin\Debug\bm homepage.exe
+C:\Users\Acer\source\repos\bm homepage\bm homepage\bin\Debug\bm homepage.pdb
+C:\Users\Acer\source\repos\bm homepage\bm homepage\obj\Debug\bm homepage.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\bm homepage\bm homepage\obj\Debug\bm_homepage.Properties.Resources.resources
+C:\Users\Acer\source\repos\bm homepage\bm homepage\obj\Debug\bm homepage.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\bm homepage\bm homepage\obj\Debug\bm homepage.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\bm homepage\bm homepage\obj\Debug\bm homepage.exe
+C:\Users\Acer\source\repos\bm homepage\bm homepage\obj\Debug\bm homepage.pdb
+C:\Users\Acer\source\repos\bm homepage\bm homepage\obj\Debug\bm_homepage.Request_Product.resources
+C:\Users\Acer\source\repos\bm homepage\bm homepage\obj\Debug\bm_homepage.Stock_Managing.resources
+C:\Users\Acer\source\repos\bm homepage\bm homepage\obj\Debug\bm_homepage.New_Product_Line.resources
+C:\Users\Acer\source\repos\bm homepage\bm homepage\obj\Debug\bm_homepage.Homepage.resources
+C:\Users\Acer\Downloads\bm homepage\bm homepage\bm homepage\bin\Debug\bm homepage.exe.config
+C:\Users\Acer\Downloads\bm homepage\bm homepage\bm homepage\bin\Debug\bm homepage.exe
+C:\Users\Acer\Downloads\bm homepage\bm homepage\bm homepage\bin\Debug\bm homepage.pdb
+C:\Users\Acer\Downloads\bm homepage\bm homepage\bm homepage\obj\Debug\bm homepage.csproj.AssemblyReference.cache
+C:\Users\Acer\Downloads\bm homepage\bm homepage\bm homepage\obj\Debug\bm_homepage.Homepage.resources
+C:\Users\Acer\Downloads\bm homepage\bm homepage\bm homepage\obj\Debug\bm_homepage.New_Product_Line.resources
+C:\Users\Acer\Downloads\bm homepage\bm homepage\bm homepage\obj\Debug\bm_homepage.Properties.Resources.resources
+C:\Users\Acer\Downloads\bm homepage\bm homepage\bm homepage\obj\Debug\bm_homepage.Request_Product.resources
+C:\Users\Acer\Downloads\bm homepage\bm homepage\bm homepage\obj\Debug\bm_homepage.Stock_Managing.resources
+C:\Users\Acer\Downloads\bm homepage\bm homepage\bm homepage\obj\Debug\bm homepage.csproj.GenerateResource.cache
+C:\Users\Acer\Downloads\bm homepage\bm homepage\bm homepage\obj\Debug\bm homepage.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Downloads\bm homepage\bm homepage\bm homepage\obj\Debug\bm homepage.exe
+C:\Users\Acer\Downloads\bm homepage\bm homepage\bm homepage\obj\Debug\bm homepage.pdb
+C:\Users\Acer\OneDrive\Desktop\bm homepage\bm homepage\bm homepage\bin\Debug\bm homepage.exe.config
+C:\Users\Acer\OneDrive\Desktop\bm homepage\bm homepage\bm homepage\bin\Debug\bm homepage.exe
+C:\Users\Acer\OneDrive\Desktop\bm homepage\bm homepage\bm homepage\bin\Debug\bm homepage.pdb
+C:\Users\Acer\OneDrive\Desktop\bm homepage\bm homepage\bm homepage\obj\Debug\bm homepage.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Desktop\bm homepage\bm homepage\bm homepage\obj\Debug\bm_homepage.Homepage.resources
+C:\Users\Acer\OneDrive\Desktop\bm homepage\bm homepage\bm homepage\obj\Debug\bm_homepage.New_Product_Line.resources
+C:\Users\Acer\OneDrive\Desktop\bm homepage\bm homepage\bm homepage\obj\Debug\bm_homepage.Properties.Resources.resources
+C:\Users\Acer\OneDrive\Desktop\bm homepage\bm homepage\bm homepage\obj\Debug\bm_homepage.Request_Product.resources
+C:\Users\Acer\OneDrive\Desktop\bm homepage\bm homepage\bm homepage\obj\Debug\bm_homepage.Stock_Managing.resources
+C:\Users\Acer\OneDrive\Desktop\bm homepage\bm homepage\bm homepage\obj\Debug\bm homepage.csproj.GenerateResource.cache
+C:\Users\Acer\OneDrive\Desktop\bm homepage\bm homepage\bm homepage\obj\Debug\bm homepage.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\bm homepage\bm homepage\bm homepage\obj\Debug\bm homepage.exe
+C:\Users\Acer\OneDrive\Desktop\bm homepage\bm homepage\bm homepage\obj\Debug\bm homepage.pdb
