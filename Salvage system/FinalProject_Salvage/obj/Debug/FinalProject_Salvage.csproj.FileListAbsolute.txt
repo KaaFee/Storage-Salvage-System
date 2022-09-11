@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\FinalProject_Salvage\FinalProject_Salvage\bin\Debug\FinalProject_Salvage.exe.config
+C:\Users\ASUS\source\repos\FinalProject_Salvage\FinalProject_Salvage\bin\Debug\FinalProject_Salvage.exe
+C:\Users\ASUS\source\repos\FinalProject_Salvage\FinalProject_Salvage\bin\Debug\FinalProject_Salvage.pdb
+C:\Users\ASUS\source\repos\FinalProject_Salvage\FinalProject_Salvage\obj\Debug\FinalProject_Salvage.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\FinalProject_Salvage\FinalProject_Salvage\obj\Debug\FinalProject_Salvage.AMHome.resources
+C:\Users\ASUS\source\repos\FinalProject_Salvage\FinalProject_Salvage\obj\Debug\FinalProject_Salvage.Product_Col.resources
+C:\Users\ASUS\source\repos\FinalProject_Salvage\FinalProject_Salvage\obj\Debug\FinalProject_Salvage.Properties.Resources.resources
+C:\Users\ASUS\source\repos\FinalProject_Salvage\FinalProject_Salvage\obj\Debug\FinalProject_Salvage.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\FinalProject_Salvage\FinalProject_Salvage\obj\Debug\FinalProject_Salvage.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\FinalProject_Salvage\FinalProject_Salvage\obj\Debug\FinalProject_Salvage.exe
+C:\Users\ASUS\source\repos\FinalProject_Salvage\FinalProject_Salvage\obj\Debug\FinalProject_Salvage.pdb
+C:\Users\ASUS\source\repos\FinalProject_Salvage\FinalProject_Salvage\obj\Debug\FinalProject_Salvage.Add_item.resources
+C:\Users\ASUS\source\repos\FinalProject_Salvage\FinalProject_Salvage\obj\Debug\FinalProject_Salvage.Check_Req.resources
+C:\Users\ASUS\source\repos\FinalProject_Salvage\FinalProject_Salvage\obj\Debug\FinalProject_Salvage.Money_Transaction.resources
